@@ -65,6 +65,8 @@ iwr https://fastly.jsdelivr.net/gh/hellodigua/code996/bin/code996.ps1 -OutFile (
 2. 揪出公司里的卷王
 3. 对比不同项目的加班强度
 
+项目起因于 [这篇帖子](https://v2ex.com/t/806367)
+
 ## 它安全吗
 
 1. 脚本端和 Web 端均不会收集任何数据
