@@ -65,6 +65,8 @@ iwr https://fastly.jsdelivr.net/gh/hellodigua/code996/bin/code996.ps1 -OutFile (
 2. 揪出公司里的卷王
 3. 对比不同项目的加班强度
 
+项目起因于 [这篇帖子](https://v2ex.com/t/806367)
+
 ## 它安全吗
 
 1. 脚本端和 Web 端均不会收集任何数据
@@ -95,8 +97,6 @@ iwr https://fastly.jsdelivr.net/gh/hellodigua/code996/bin/code996.ps1 -OutFile (
 ## 贡献者
 
 感谢 [YLinXin](https://github.com/YLinXin) | [Nekotora](https://flag.moe/) | [Xuemuyang](https://github.com/Xuemuyang) 等小伙伴对本项目的贡献，希望这个项目能帮助到不希望加班的开发者们。
-
-站点主题及灵感来自 [996.ICU](https://github.com/996icu/996.ICU)。
 
 如果有问题欢迎在 issue 提出，或通过邮件联系我。
 

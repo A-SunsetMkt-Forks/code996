@@ -17,8 +17,8 @@
         </a>
       </p>
       <p>
-        Inspiration comes from ❤️
-        <a target="_blank" href="https://996.icu/">996.icu</a>
+        Made with ❤️ by
+        <a target="_blank" href="https://github.com/hellodigua">digua</a>
       </p>
     </div>
   </div>
