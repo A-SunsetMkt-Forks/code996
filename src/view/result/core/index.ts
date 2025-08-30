@@ -103,7 +103,7 @@ export function get996Index({ workHourPl, workWeekPl, hourData }: WorkTimeData):
    * (y * n) / (m + n) 是对周末工作时间的修正，使其与工作日正常比例一致
    * 将这两部分相加，得到修正后的加班commit总数
    */
-  const overTimeAmendCount = (x + (y * n) / (m + n)).toFixed(0)
+  const overTimeAmendCount = Math.round(x + (y * n) / (m + n))
   const totalCount = y + x
 
   // 加班commit百分比
